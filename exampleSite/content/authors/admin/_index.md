@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Michael Vahn
+name: Jesper Asring Hansen
 avatar_image: "user-full.png"
 # Username (this should match the folder name)
 authors:
@@ -14,35 +14,35 @@ btn:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor in Political Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Aalborg University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am an Associate Professor at Aalborg University interested in public administration, policing, field experiments, and way too many other things. 
 
 # Should the user's education and interests be displayed?
 display_education: false
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Public administration
+- Policing
+- Field experiments
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Political Science
+    institution: University of Southern Denmark
+    year: 2019
+  - course: MSc in Political Science
+    institution: University of Southern Denmark
+    year: 2016
+  - course: BSc in Political Science
+    institution: University of Southern Denmark
+    year: 2014
 
 # Social/academia Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -77,7 +77,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+Jesper Asring Hansen is an Associate Professor of Political Science at Aalborg University. 
